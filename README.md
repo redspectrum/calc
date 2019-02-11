@@ -1,1 +1,3 @@
-# calc
+# My awesome Calc
+
+## Сonsole utility
